@@ -1,0 +1,12 @@
+{
+  "name": "grsai-proxy",
+  "version": "1.0.0",
+  "description": "Gemini->GrsAI format translation proxy",
+  "main": "grsai-proxy.js",
+  "scripts": {
+    "start": "node grsai-proxy.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
